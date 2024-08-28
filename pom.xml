@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.RTT.309.7.1</groupId>
-	<artifactId>springCruddDemo</artifactId>
+	<artifactId>1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springCruddDemo</name>
 	<description>Demo project for Spring Boot</description>
